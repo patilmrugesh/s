@@ -1,0 +1,5 @@
+g++ dining.cpp -o dining -pthread
+./dining
+
+g++ macro_pass1.cpp -o macro1
+./macro1
